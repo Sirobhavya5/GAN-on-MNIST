@@ -1,4 +1,4 @@
-**Generative Adversarial Networks (GANs) for MNIST Digit Generation**
+**Exploring Generative Adversarial Networks on MNIST: A Study in Hyperparameter Optimization**
 
 **Project Overview**
 
