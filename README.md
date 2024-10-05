@@ -8,8 +8,11 @@ The key focus of this project is on hyperparameter optimization to improve the q
 **Objectives**
 
 •	Implement a GAN model using TensorFlow and Keras to generate images from the MNIST dataset.
+
 •	Tune hyperparameters (batch size, learning rate, noise dimension) to enhance the quality of generated images.
+
 •	Evaluate model performance using metrics like Inception Score (IS) and Fréchet Inception Distance (FID).
+
 •	Visualize the progress of image generation over training epochs.
 
 **Key Features**
